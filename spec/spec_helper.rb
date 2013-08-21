@@ -15,7 +15,7 @@ RSpec.configure do |c|
 
   c.after :each do
 #    FileUtils.remove_entry_secure(@puppetdir) # This breaks with multiple spec files
-    FileUtils.rm_rf(Dir.glob('/tmp/puppi20*') , :secure => true)
+    FileUtils.rm_rf(Dir.glob('/tmp/puppilib20*') , :secure => true)
   end
 
   c.module_path = File.join(File.dirname(__FILE__), '../../')

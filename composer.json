@@ -1,7 +1,7 @@
 {
-    "name": "example42/puppi",
-    "description": "Puppet driven applications deployment tool",
-    "homepage": "https://github.com/example42/puppi",
+    "name": "lamawithonel/puppilib",
+    "description": "Useful functions and facts from Lab42's Puppi tool",
+    "homepage": "https://github.com/lamawithonel/puppilib",
     "type": "library",
     "license": "Apache License, Version 2.0",
     "authors": [

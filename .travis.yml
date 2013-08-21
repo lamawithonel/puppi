@@ -16,6 +16,3 @@ matrix:
       gemfile: .gemfile
 
 gemfile: .gemfile
-notifications:
-  email:
-    - al@lab42.it

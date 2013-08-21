@@ -1,5 +1,3 @@
 fixtures:
-  repositories:
-    "concat": "git://github.com/example42/puppet-concat.git"
   symlinks:
-    "puppi": "#{source_dir}"
+    "puppilib": "#{source_dir}"
