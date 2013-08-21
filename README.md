@@ -7,7 +7,7 @@
 3. [Setup - The basics of getting started with puppilib](#setup)
     * [What puppilib affects](#what-puppilib-affects)
     * [Setup requirements](#setup-requirements)
-    * [Beginning with puppilib]](#beginning-with-puppilib)
+    * [Beginning with puppilib](#beginning-with-puppilib)
 4. [Usage - Configuration options and additional functionality](#usage)
 5. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
 5. [Limitations - OS compatibility, etc.](#limitations)
@@ -27,7 +27,7 @@ This module provides the functions and facts from the Lab42's Puppi tool, sans P
 ###What puppilib affects
 
 TODO
-	
+
 ###Beginning with puppilib
 
 TODO
@@ -50,6 +50,7 @@ Please submit pull request and bug reports to the upstream project.
 
 ##License
 
+```
    Copyright 2011-2013 Alessandro Franceschi
    Copyright 2012      Celso Fernandez / Zertico
 
@@ -64,4 +65,4 @@ Please submit pull request and bug reports to the upstream project.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
+```
